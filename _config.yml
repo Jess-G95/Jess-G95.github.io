@@ -19,7 +19,7 @@ locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Postcards from Jess"
 title_separator          : "|"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : # "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "Jess"
 description              : "Travel stories from around the world."
 url                      : "https://jess-g95.github.io"
