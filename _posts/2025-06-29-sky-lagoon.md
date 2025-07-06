@@ -8,12 +8,6 @@ tag: posts
 header:
   teaser: /assets/images/iceland/skylagoon.jpg
   overlay_image: /assets/images/iceland/skylagoon.jpg
-  caption: "An Afternoon at Reykjavik's Sky Lagoon"
 ---
 
-# ICELAND!!!!!!!!
-
-* it's great
-* cold
-
-paragraph
+# Coming soon
