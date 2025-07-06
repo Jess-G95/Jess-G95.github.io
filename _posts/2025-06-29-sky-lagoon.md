@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title:  "An Afternoon at Reykjavik's Sky Lagoon"
-excerpt: "Watch the sun set from Sky Lagoon."
+excerpt: "Watch the sun set from Sky Lagoon"
 categories: Iceland
 tag: posts
 header:
