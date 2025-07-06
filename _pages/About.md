@@ -1,6 +1,6 @@
 ---
 title: "About Me"
 permalink: /about/
-layout: posts
+layout: splash
 author_profile: true
 ---
