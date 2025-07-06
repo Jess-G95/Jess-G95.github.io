@@ -239,7 +239,7 @@ $text-alignments: left, right, start, end, center, justify;
   position: relative;
   width: $navicon-width;
   height: $navicon-height;
-  background: $primary-color;
+  background: $background-color;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -251,7 +251,7 @@ $text-alignments: left, right, start, end, center, justify;
     inset-inline-start: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: $primary-color;
+    background: $background-color;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
