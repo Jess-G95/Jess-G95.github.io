@@ -148,6 +148,9 @@
 
 .grid__item {
   margin-bottom: 2em;
+  background-color: #e7e4db;
+  padding: 5px;
+  border-radius: 5px;
 
   @include breakpoint($small) {
     float: inline-start;
@@ -195,6 +198,7 @@
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
+    color: $text-color;
   }
 
   .page__meta-sep {
