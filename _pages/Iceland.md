@@ -5,4 +5,5 @@ layout: category
 taxonomy: Iceland
 entries_layout: grid
 author_profile: false
+class: wide
 ---
